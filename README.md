@@ -2,7 +2,7 @@
 
 A small Ruby 2D application that fetches quotes from [Zen Quotes](https://zenquotes.io) and displays them in a small window.
 
-![](https://zenquotes.io)
+![Screenshot of Ruby 2D app showing a quote](screenshot.png)
 
 ## How To Use
 
